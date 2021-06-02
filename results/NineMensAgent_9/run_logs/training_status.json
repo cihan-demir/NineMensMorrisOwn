@@ -1,0 +1,47 @@
+{
+    "NineMensMorrisYAML": {
+        "checkpoints": [
+            {
+                "steps": 8499984,
+                "file_path": "results\\NineMensAgent_9\\NineMensMorrisYAML\\NineMensMorrisYAML-8499984.onnx",
+                "reward": null,
+                "creation_time": 1622088728.1885836
+            },
+            {
+                "steps": 8999984,
+                "file_path": "results\\NineMensAgent_9\\NineMensMorrisYAML\\NineMensMorrisYAML-8999984.onnx",
+                "reward": null,
+                "creation_time": 1622090687.3514712
+            },
+            {
+                "steps": 9499984,
+                "file_path": "results\\NineMensAgent_9\\NineMensMorrisYAML\\NineMensMorrisYAML-9499984.onnx",
+                "reward": null,
+                "creation_time": 1622092640.9557083
+            },
+            {
+                "steps": 9999984,
+                "file_path": "results\\NineMensAgent_9\\NineMensMorrisYAML\\NineMensMorrisYAML-9999984.onnx",
+                "reward": null,
+                "creation_time": 1622094604.3909535
+            },
+            {
+                "steps": 10000128,
+                "file_path": "results\\NineMensAgent_9\\NineMensMorrisYAML\\NineMensMorrisYAML-10000128.onnx",
+                "reward": -99.25999769568443,
+                "creation_time": 1622094604.9840868
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 10000128,
+            "file_path": "results\\NineMensAgent_9\\NineMensMorrisYAML.onnx",
+            "reward": -99.25999769568443,
+            "creation_time": 1622094604.9840868
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.25.1",
+        "torch_version": "1.7.1+cu110"
+    }
+}
